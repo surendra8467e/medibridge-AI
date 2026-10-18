@@ -1,4 +1,4 @@
-# MediBridge AI
+# medibridge-AI# MediBridge AI
 
 **Right Care, Less Waiting, Better Access** · HackShift 2026 · Silent Revolution
 
@@ -154,3 +154,4 @@ The backend tests create a fresh temporary SQLite file and private upload direct
 11. Restart Flask and verify profiles, uploads, medicine records, chats, appointments, and booking requests remain in SQLite. Run `python -m pytest -q tests` and `npm run build` for automated checks.
 
 For automated checks, run `python -m pytest -q tests` in `backend`, then `npm run build` in `frontend`.
+
